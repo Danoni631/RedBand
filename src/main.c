@@ -1,7 +1,4 @@
-#include "../../Include/stdint.h"
-#include "../../Network/iptcp.h"
-#include "../../Graphics/graphics.h"
-#include "../../Font/text.h"
+// #include "your_Files_here.h"
 
 #include "main.h"
 
